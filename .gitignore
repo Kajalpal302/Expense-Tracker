@@ -1,0 +1,16 @@
+# Environment variables
+backend/.env
+
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Generated files
+*.xlsx
+
+# OCR processed images
+processed-*.png
+
+# OS files
+.DS_Store
+Thumbs.db
